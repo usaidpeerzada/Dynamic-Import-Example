@@ -6,4 +6,3 @@
     index.js
     index.html
     style.css
-___
